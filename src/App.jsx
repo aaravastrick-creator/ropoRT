@@ -36,7 +36,7 @@ import { increment,decrement,inByAmount } from './store/counterSlice'
 
 // export default App
 
-
+// ?df;kfskdlndkjlfd
 function App (){
   const dispatch = useDispatch();
   const counter = useSelector((state)=>state.counter.value);
